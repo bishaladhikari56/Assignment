@@ -1,6 +1,6 @@
 package Assignment1;
 
-public class Greeting
+public class Greeting1
 {
     public static void main(String[]args)
     {
