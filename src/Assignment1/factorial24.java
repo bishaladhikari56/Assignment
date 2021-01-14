@@ -15,7 +15,6 @@ public class factorial24
             factorial=factorial *i;
         }
         System.out.printf("Factorial of %d is %d",num1,factorial);
-
     }
 
 }
