@@ -4,7 +4,7 @@ public class Area5
 {
     public static void main(String[]args)
     {
-        System.out.printf("The area of rectangle is: %.2f\n",areaRectangle(10,5));
+        System.out.printf("The area of rectangle is: %.2f\n",areaRectangle(10.2,5));
         System.out.printf("The area of Triangle is: %.2f\n",areaTriangle(10,5));
         System.out.printf("The area of rectangle is: %.2f\n",areaCircle(10));
 
